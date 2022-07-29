@@ -6,8 +6,8 @@ defmodule FIDS.AMS do
   adapter :httpc
   
   @credential [
-    app_id: "ed3a14db",
-    app_key: "411ef9f141a6c5305fc7d40b76897877",
+    app_id: "",
+    app_key: "",
     sort: "+scheduledate",
     includedelays: true
   ]
